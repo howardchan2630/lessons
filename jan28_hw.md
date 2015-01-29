@@ -24,6 +24,8 @@ git checkout -b <branch name>
 
 ### Open your folder in Sublime Text
  - open Sublime and select File, Open...
+ - Select the folder you just created for your repo
+ - create HTML and CSS files in sublime, they can be saved directly to your folder
 
 ### Set up your HTML
 - make sure to have a head and body (look online for examples if you get stuck)
