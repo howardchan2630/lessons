@@ -2,7 +2,7 @@
 
 You homework is to start working on a brag sheet for later showing to potential employers.
 
-## On your own, github create your own repo
+## On your own github, create your own repo
 
 - Go to your github account
 - in the upper right-hand corner of the page there is a "+" sign
@@ -15,22 +15,25 @@ You homework is to start working on a brag sheet for later showing to potential 
 type in terminal (text inbetween <> needs to be personalized to your project)
 
 ```
-$ git clone <https from new repo on github>
-$ cd <folder name>
-$ git checkout -b <branch name>
+git clone <https from new repo on github>
+cd <folder name>
+git checkout -b <branch name>
 ```
 
 ## Create HTML and CSS
 
+### Open your folder in Sublime Text
+ - open Sublime and select File, Open...
+
 ### Set up your HTML
-- make sure to have a head and body
-- create div tags
-- add photos and links to other websites
+- make sure to have a head and body (look online for examples if you get stuck)
+- create div tags and other elements to setup your page
+- add photos, links to other websites and any else you'd like to include
 - include Your Name, a selfie, different level headings(h1,h2,h3), and an unorder list of atleast 5 acomplishments
 
 ### Set up your CSS
 
-On HTML file include the css link in the head.
+On the HTML file include the css link in the head:
 
 ```HTML
 <head>
@@ -38,11 +41,11 @@ On HTML file include the css link in the head.
 </head>
 ```
 
-- change background color
-- headings
-- align the different div tags, photos and text on the page in a visually pleasing way check out "Learn CSS Layout" link below if you get stuck.
+- change the background color
+- style your headings
+- align the different div tags, photos and text on the page in a visually pleasing way. Check out the "Learn CSS Layout" link below if you get stuck.
 
-## CSS helpful links
+## CSS helpful links (look at these if you get stuck!)
 
 - [Learn CSS Layout](http://learnlayout.com) **very very important**
 
@@ -68,4 +71,4 @@ If you want to learn more about using Git go through [Learn Git Branching](http:
 ## Stretch Challenge: wire framing
 
 Here is a free wireframing tool to help you design the layout of your website [Click Here](https://wireframe.cc/)
-Wireframe you site before writing your 
+Wireframe you site before writing your HTML.
