@@ -2,7 +2,6 @@
 
 ### Jan 31th, 2015
 - [Anagrams](https://github.com/bluerails/anagrams)
-- [Nested Arrays](https://github.com/bluerails/nested_arrays)
 - [Homework](https://github.com/bluerails/interview-questions-1)
 
 ### Jan 28th, 2015
