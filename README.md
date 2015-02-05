@@ -1,5 +1,8 @@
 # Lessons
 
+### Feb 4th, 2015
+- [Nested Arrays](https://github.com/bluerails/nested_arrays)
+
 ### Jan 31th, 2015
 - [Anagrams](https://github.com/bluerails/anagrams)
 - [Refactor](https://github.com/bluerails/refactor)
