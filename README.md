@@ -1,5 +1,9 @@
 # Lessons
 
+### Feb 7th, 2015
+- [cipher](https://github.com/bluerails/cypher)
+- [Homework]
+
 ### Feb 4th, 2015
 - [Nested Arrays](https://github.com/bluerails/nested_arrays)
 - [Homework](https://github.com/bluerails/review1)
