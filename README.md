@@ -1,5 +1,9 @@
 # Lessons
 
+### Feb 11th, 2015
+- [Rspec](https://github.com/bluerails/rspec)
+- [Funnytalk with Regular Expressions](https://github.com/bluerails/funnytalk)
+
 ### Feb 7th, 2015
 - [cipher](https://github.com/bluerails/cypher)
 - Stretch Challenge
