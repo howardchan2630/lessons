@@ -2,6 +2,7 @@
 
 ### Feb 14th, 2015
 - [D&D Die!!!!](https://github.com/bluerails/dice)
+- [instructional only - class examples](https://github.com/bluerails/class_structure)
 - [Guessing Game](https://github.com/bluerails/guessing_game)
 
 ### Feb 11th, 2015
