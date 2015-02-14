@@ -1,5 +1,9 @@
 # Lessons
 
+### Feb 14th, 2015
+- [D&D Die!!!!](https://github.com/bluerails/dice)
+- [Guessing Game](https://github.com/bluerails/guessing_game)
+
 ### Feb 11th, 2015
 - [Rspec](https://github.com/bluerails/rspec)
 - [Funnytalk with Regular Expressions](https://github.com/bluerails/funnytalk)
