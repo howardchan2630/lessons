@@ -1,5 +1,9 @@
 # Lessons
 
+### Feb 18th, 2015
+- [Credit Cards](https://github.com/bluerails/creditcards)
+- [Mother Bears](https://github.com/bluerails/motherbear)
+
 ### Feb 14th, 2015
 - [D&D Die!!!!](https://github.com/bluerails/dice)
 - [instructional only - class examples](https://github.com/bluerails/class_structure)
