@@ -1,7 +1,8 @@
 # Lessons
 
 ### Feb 21st, 2015
-- [flashcards](https://github.com/bluerails/flash)
+- [Flashcards](https://github.com/bluerails/flash)
+- [Instruction Notes](https://github.com/bluerails/MVC)
 
 ### Feb 18th, 2015
 - [Credit Cards](https://github.com/bluerails/creditcards)
