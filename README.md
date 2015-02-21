@@ -7,7 +7,9 @@
   - Continue completing in the following order
     - 1: D&D Die
     - 2: Mother Bears
-  - Think about Flashcards we will continue working on this next class as well. Don't worry about completeing Flashcards for homework.
+  - Think about Flashcards
+    - We will continue working on this next class as well. 
+    - Don't worry about completeing Flashcards for homework.
 
 ### Feb 18th, 2015
 - [Credit Cards](https://github.com/bluerails/creditcards)
