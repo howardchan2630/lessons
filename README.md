@@ -4,7 +4,7 @@
 - [Flashcards](https://github.com/bluerails/flash)
 - [Instruction Notes](https://github.com/bluerails/MVC)
 - Homework: 
-  - Continue completing in the following order
+  - Continue completing in the following order (if you have not completed, already)
     - 1: [D&D Die!!!!](https://github.com/bluerails/dice)
     - 2: [Mother Bears](https://github.com/bluerails/motherbear)
     - 3: [Credit Cards](https://github.com/bluerails/creditcards)
