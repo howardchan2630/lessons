@@ -5,8 +5,9 @@
 - [Instruction Notes](https://github.com/bluerails/MVC)
 - Homework: 
   - Continue completing in the following order
-    - 1: D&D Die
-    - 2: Mother Bears
+    - 1: [D&D Die!!!!](https://github.com/bluerails/dice)
+    - 2: [Mother Bears](https://github.com/bluerails/motherbear)
+    - 3: [Credit Cards](https://github.com/bluerails/creditcards)
   - Think about Flashcards
     - We will continue working on this next class as well. 
     - Don't worry about completeing Flashcards for homework.
