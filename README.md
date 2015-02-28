@@ -2,6 +2,7 @@
 
 ### Feb 28st, 2015
 - Class
+  - [lecture](https://github.com/bluerails/associationlecture)
   - [Schema 1](https://github.com/bluerails/schema)
   - [Schema 2](https://github.com/bluerails/schema2)
 - Homework
