@@ -1,5 +1,12 @@
 # Lessons
 
+### Feb 28st, 2015
+- Class
+  - [Schema 1](https://github.com/bluerails/schema)
+  - [Schema 2](https://github.com/bluerails/schema2)
+- Homework
+  - [SQLite](https://github.com/bluerails/sqlite)
+
 ### Feb 21st, 2015
 - [Flashcards](https://github.com/bluerails/flash)
 - [Instruction Notes](https://github.com/bluerails/MVC)
