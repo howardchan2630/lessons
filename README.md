@@ -1,5 +1,8 @@
 # Lessons
 
+### March 4th, 2015
+- [Blog 1](https://github.com/bluerails/Blog1)
+
 ### Feb 28st, 2015
 - Class
   - [lecture](https://github.com/bluerails/associationlecture)
