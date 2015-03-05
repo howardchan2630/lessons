@@ -2,6 +2,8 @@
 
 ### March 4th, 2015
 - [Blog 1](https://github.com/bluerails/Blog1)
+- [Rails/ CRUD/ Routes](https://github.com/bluerails/railslecture)
+- Homework - [Spaceship](https://github.com/bluerails/spaceship)
 
 ### Feb 28st, 2015
 - Class
