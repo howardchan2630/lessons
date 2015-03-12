@@ -2,6 +2,7 @@
 
 ### March 11th, 2015
 - [Blog 2](https://github.com/bluerails/Blog2)
+- [Lecture 2 slides](https://github.com/bluerails/routes2lecture)
 
 ### March 4th, 2015
 - [Blog 1](https://github.com/bluerails/Blog1)
