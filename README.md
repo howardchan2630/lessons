@@ -1,5 +1,8 @@
 # Lessons
 
+### March 11th, 2015
+- [Blog 2](https://github.com/bluerails/Blog2)
+
 ### March 4th, 2015
 - [Blog 1](https://github.com/bluerails/Blog1)
 - [Rails/ CRUD/ Routes](https://github.com/bluerails/railslecture)
