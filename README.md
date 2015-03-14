@@ -1,5 +1,8 @@
 # Lessons
 
+### March 14th, 2015
+- [Blog 3](https://github.com/bluerails/blog3)
+
 ### March 11th, 2015
 - [Blog 2](https://github.com/bluerails/Blog2)
 - [Lecture 2 slides](https://github.com/bluerails/routes2lecture)
