@@ -2,6 +2,10 @@
 
 ### March 14th, 2015
 - [Blog 3](https://github.com/bluerails/blog3)
+- [lecture](https://github.com/bluerails/sessionlecture)
+- Homework
+  - You must have your blog with session completed, fully funtional and preferably with CSS styling. they will be posted online next class.
+  - Come up with 2 or 3 ideas to pitch for next class (these are apps that we will actually make in the last 2 weeks of class)
 
 ### March 11th, 2015
 - [Blog 2](https://github.com/bluerails/Blog2)
