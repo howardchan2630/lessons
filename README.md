@@ -1,7 +1,10 @@
 # Lessons
 
 ### March 18th, 2015
--[Heroku](https://github.com/bluerails/Heroku)
+- [Heroku](https://github.com/bluerails/Heroku)
+- Pitching at 9pm
+- [Wireframing](https://www.wirify.com/)
+  - find three websites and look at their wireframe using the wirify.com or draw it yourself.
 
 ### March 14th, 2015
 - [Blog 3](https://github.com/bluerails/blog3)
